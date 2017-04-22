@@ -26,4 +26,4 @@ curl -s https://mirror.herrbischoff.com/freebsd/development/tarballs/src_stable_
 
 ## Set Make Options
 
-Add everthing in [make.conf](https://github.com/herrbischoff/freebsdpi/blob/master/etc/make.conf) to `/etc/make.conf`.
+Add everthing in [make.conf](etc/make.conf) to `/etc/make.conf`.
