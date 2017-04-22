@@ -7,8 +7,7 @@
 ```bash
 cd /usr/ports/ports-mgmt/portmaster/
 make install clean
-cd /usr/ports/devel/ccache
-make install clean
-cd /usr/ports/ftp/curl
-make install clean
+
+portmaster devel/ccache
+portmaster ftp/curl
 ```
