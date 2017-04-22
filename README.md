@@ -23,3 +23,7 @@ portsnap fetch extract
 ```sh
 curl -s https://mirror.herrbischoff.com/freebsd/development/tarballs/src_stable_11.tar.gz | tar xfv - -C /usr
 ```
+
+## Set Make Options
+
+Add everthing in [make.conf](https://github.com/herrbischoff/freebsdpi/blob/master/etc/make.conf) to `/etc/make.conf`.
